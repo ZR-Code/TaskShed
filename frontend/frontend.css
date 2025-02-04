@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;  /* Ensure it takes the full width of the container */
+}
+.navbar {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: "Quicksand";
+}
+.navbar-brand, .nav-link{
+    color: #1976D2;
+}
+
+
